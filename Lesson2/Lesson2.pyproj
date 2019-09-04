@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>98b73f2a-a77b-46b0-a5da-a222b0c2a51b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>lesson5.py</StartupFile>
+    <StartupFile>Lesson6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="lesson5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lesson6.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
